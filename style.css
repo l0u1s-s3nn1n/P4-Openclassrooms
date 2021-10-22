@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
@@ -1039,4 +1039,46 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+/*MODIFICATIONS*/
+
+.citations {
+    font-size: 20px;
+
+}
+
+.citations2
+{
+font-family: "helvetica";
+font-size: 20px;
+font-style: italic;
+font-weight: bold;
+margin: 0px;
+padding: 0px;
+}
+
+.citations2_text{
+font-family: "helvetica";
+font-size: 20px;
+font-style: italic;
+font-weight: bold;
+margin: 0px;
+padding: 0px;
+}
+
+.citations2_author{
+    font-size: 15px;
+    margin: 0px;
+    padding: 0px;
+    font-weight: initial;
+}
+
+.citations3{
+    font-size: 20px;
+}
+
+.bloc-7 {
+    display: flex;
+    flex-direction: column;
 }
